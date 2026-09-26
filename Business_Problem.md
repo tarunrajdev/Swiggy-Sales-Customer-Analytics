@@ -157,7 +157,7 @@ Despite this growth, several challenges have emerged that require data-driven so
 
 ---
 
-## 🎯 PROJECT OBJECTIVES
+##  PROJECT OBJECTIVES
 
 ### Primary Objectives
 
@@ -193,7 +193,7 @@ Despite this growth, several challenges have emerged that require data-driven so
 
 ---
 
-## 📊 EXPECTED DELIVERABLES
+##  EXPECTED DELIVERABLES
 
 ### 1. Analytical Deliverables
 
@@ -261,7 +261,7 @@ Despite this growth, several challenges have emerged that require data-driven so
 
 ---
 
-## 🔍 ANALYTICAL APPROACH
+##  ANALYTICAL APPROACH
 
 ### Data Analysis Methodology
 
@@ -285,7 +285,7 @@ Despite this growth, several challenges have emerged that require data-driven so
 - Strategic recommendations
 - Action plans
 
-### 🛠️ Tools & Technologies
+###  Tools & Technologies
 
 - **Database:** MySQL
 - **Analysis:** Python (Pandas, NumPy)
